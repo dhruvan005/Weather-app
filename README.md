@@ -12,17 +12,16 @@ The Weather App is a simple web application that allows users to enter a city na
 
 + Tailwind CSS: For styling the app.
 
-### Setup Instructions
+## Setup Instructions
 
-Clone the repository:
-Copy code
+**Clone the repository:**
+
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 ```
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
-Copy code
 ```bash
 cd weather-app
 ```
